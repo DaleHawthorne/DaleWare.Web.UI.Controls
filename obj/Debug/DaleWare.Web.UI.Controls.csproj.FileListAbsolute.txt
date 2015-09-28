@@ -1,0 +1,10 @@
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\bin\Debug\DaleWare.Web.UI.Controls.dll
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\bin\Debug\DaleWare.Web.UI.Controls.pdb
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\DaleWare.Web.UI.Controls.dll
+C:\Users\Dale\Documents\Visual Studio 2008\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\DaleWare.Web.UI.Controls.pdb
+C:\Users\Dale  Hawthorne\Documents\Visual Studio 2012\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\bin\Debug\DaleWare.Web.UI.Controls.dll
+C:\Users\Dale  Hawthorne\Documents\Visual Studio 2012\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\bin\Debug\DaleWare.Web.UI.Controls.pdb
+C:\Users\Dale  Hawthorne\Documents\Visual Studio 2012\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\DaleWare.Web.UI.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Dale  Hawthorne\Documents\Visual Studio 2012\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\DaleWare.Web.UI.Controls.dll
+C:\Users\Dale  Hawthorne\Documents\Visual Studio 2012\Projects\DaleWare.Web.UI.Controls\DaleWare.Web.UI.Controls\obj\Debug\DaleWare.Web.UI.Controls.pdb
